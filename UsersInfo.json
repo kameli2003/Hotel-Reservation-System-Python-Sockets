@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "user": "Admin",
+      "password": "admin",
+      "admin": true
+    },
+    {
+      "id": 1,
+      "user": "Morad",
+      "password": "1234",
+      "admin": false,
+      "purse": "1000",
+      "phoneNumber": "00945692356",
+      "address": "Canada, Montral"
+    },
+    {
+      "id": 2,
+      "user": "Jasem",
+      "password": "4321",
+      "admin": false,
+      "purse": "200",
+      "phoneNumber": "00125692356",
+      "address": "United States, Newyork"
+    },
+    {
+      "id": 3,
+      "user": "Pedram",
+      "password": "6789",
+      "admin": false,
+      "purse": "10",
+      "phoneNumber": "00989112659874",
+      "address": "Iran, Rasht"
+    },
+    {
+      "id": 4,
+      "user": "Pouya",
+      "password": "1357",
+      "admin": false,
+      "purse": "750",
+      "phoneNumber": "09123456789",
+      "address": "Iran, kerman",
+      "roomNumber": null
+    },
+    {
+      "id": 5,
+      "user": "Ali",
+      "password": "2813",
+      "admin": false,
+      "purse": "1580",
+      "phoneNumber": "09197555740",
+      "address": "Iran, tehran"
+    },
+    {
+      "id": 6,
+      "user": "Alireza",
+      "password": "silicon",
+      "admin": true
+    },
+    {
+      "id": 7,
+      "user": "\u0633\u0633",
+      "admin": false,
+      "password": "\u06cc\u06cc",
+      "purse": "\u06cc\u06cc",
+      "phoneNumber": "\u06cc\u06cc",
+      "address": "\u06cc\u06cc"
+    },
+    {
+      "id": 8,
+      "user": "11",
+      "admin": false,
+      "password": "11",
+      "purse": "11",
+      "phoneNumber": "11",
+      "address": "11"
+    },
+    {
+      "id": 9,
+      "user": "22",
+      "admin": false,
+      "password": "22",
+      "purse": "22",
+      "phoneNumber": "22",
+      "address": "22"
+    }
+  ]
+}

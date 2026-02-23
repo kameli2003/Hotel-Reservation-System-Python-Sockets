@@ -1,0 +1,169 @@
+[2025-05-24 09:34:38] User '11' logged in successfully.
+[2025-05-24 09:34:38] User '11' (ID: 8) entered dashboard.
+[2025-05-24 09:34:44] Dashboard error for user '11': cannot access local variable 'rooms' where it is not associated with a value
+[2025-05-24 09:37:04] User '11' logged in successfully.
+[2025-05-24 09:37:04] User '11' (ID: 8) entered dashboard.
+[2025-05-24 09:57:10] User '11' logged in successfully.
+[2025-05-24 09:57:10] User '11' (ID: 8) entered dashboard.
+[2025-05-24 10:06:27] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 10:06:27] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 10:06:39] User 'Pouya' logged in successfully.
+[2025-05-24 10:06:39] User 'Pouya' (ID: 4) entered dashboard.
+[2025-05-24 10:07:50] User 'Pouya' entered invalid dashboard choice: 101
+[2025-05-24 10:08:49] User 'Pouya' entered invalid dashboard choice: 101
+[2025-05-24 10:10:21] User '11' logged in successfully.
+[2025-05-24 10:10:21] User '11' (ID: 8) entered dashboard.
+[2025-05-24 10:13:47] User '11' logged in successfully.
+[2025-05-24 10:13:47] User '11' (ID: 8) entered dashboard.
+[2025-05-24 10:13:49] Dashboard error for user '11': cannot access local variable 'rooms' where it is not associated with a value
+[2025-05-24 10:14:40] User '11' logged in successfully.
+[2025-05-24 10:14:40] User '11' (ID: 8) entered dashboard.
+[2025-05-24 10:15:58] User '11' exited dashboard.
+[2025-05-24 10:16:15] User 'Admin' logged in successfully.
+[2025-05-24 10:16:15] User 'Admin' (ID: 0) entered dashboard.
+[2025-05-24 10:16:53] User 'Admin' exited dashboard.
+[2025-05-24 10:19:24] User '11' logged in successfully.
+[2025-05-24 10:19:24] User '11' (ID: 8) entered dashboard.
+[2025-05-24 10:20:59] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 10:21:13] User 'Admin' logged in successfully.
+[2025-05-24 10:21:13] User 'Admin' (ID: 0) entered dashboard.
+[2025-05-24 10:25:15] User 'Admin' logged in successfully.
+[2025-05-24 10:25:15] User 'Admin' (ID: 0) entered dashboard.
+[2025-05-24 10:33:31] User 'Admin' logged in successfully.
+[2025-05-24 10:33:31] User 'Admin' (ID: 0) entered dashboard.
+[2025-05-24 10:36:18] Invalid date format entered for system date: 3
+[2025-05-24 10:36:26] Invalid date format entered for system date: 3
+[2025-05-24 10:36:39] User 'Admin' logged in successfully.
+[2025-05-24 10:36:39] User 'Admin' (ID: 0) entered dashboard.
+[2025-05-24 11:07:03] User '11' logged in successfully.
+[2025-05-24 11:07:03] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:07:09] User '11' viewed their information.
+[2025-05-24 11:07:21] User '11' tried to reserve non-existent room 5.
+[2025-05-24 11:07:27] User '11' updated their information.
+[2025-05-24 11:14:57] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:14:57] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:15:16] User '11' logged in successfully.
+[2025-05-24 11:15:16] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:15:26] User '11' viewed their information.
+[2025-05-24 11:15:27] User '11' viewed their information.
+[2025-05-24 11:15:28] User '11' viewed their information.
+[2025-05-24 11:15:29] User '11' viewed their information.
+[2025-05-24 11:19:45] User '11' entered invalid dashboard choice: & "C:/Users/Doctor Rayaneh/AppData/Local/Programs/Python/Python313/python.exe" e:/education/term6/networks/p1/hotel_client.py
+[2025-05-24 11:19:47] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:19:47] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:19:56] User '11' logged in successfully.
+[2025-05-24 11:19:56] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:21:16] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:21:16] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:21:25] User '11' logged in successfully.
+[2025-05-24 11:21:25] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:22:14] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:22:14] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:22:25] User '11' logged in successfully.
+[2025-05-24 11:22:25] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:24:21] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:24:21] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:24:29] User '11' logged in successfully.
+[2025-05-24 11:24:29] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:26:15] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:26:15] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:26:24] User '11' logged in successfully.
+[2025-05-24 11:26:24] User '11' (ID: 8) entered dashboard.
+[2025-05-24 11:31:04] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:31:04] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 11:31:14] User '11' logged in successfully.
+[2025-05-24 11:31:14] User '11' (ID: 8) entered dashboard.
+[2025-05-24 15:32:39] User '11' viewed their information.
+[2025-05-24 15:33:06] User '11' entered invalid dashboard choice: 122222222222222222222
+[2025-05-24 15:50:24] User '11' entered invalid dashboard choice: & "C:/Users/Doctor Rayaneh/AppData/Local/Programs/Python/Python313/python.exe" e:/education/term6/networks/p1/hotel_client.py
+[2025-05-24 15:50:24] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 15:50:24] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 15:50:34] User '11' logged in successfully.
+[2025-05-24 15:50:34] User '11' (ID: 8) entered dashboard.
+[2025-05-24 15:51:14] User '11' viewed their information.
+[2025-05-24 15:51:16] User '11' viewed their information.
+[2025-05-24 15:52:39] User '11' exited dashboard.
+[2025-05-24 15:52:49] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 15:55:06] User '11' logged in successfully.
+[2025-05-24 15:55:06] User '11' (ID: 8) entered dashboard.
+[2025-05-24 15:57:59] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 15:57:59] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 15:58:06] User '11' logged in successfully.
+[2025-05-24 15:58:06] User '11' (ID: 8) entered dashboard.
+[2025-05-24 15:59:13] User '11' viewed their information.
+[2025-05-24 15:59:14] User '11' viewed their information.
+[2025-05-24 15:59:15] User '11' viewed their information.
+[2025-05-24 15:59:28] User '11' viewed their information.
+[2025-05-24 15:59:29] User '11' viewed their information.
+[2025-05-24 15:59:29] User '11' viewed their information.
+[2025-05-24 15:59:30] User '11' viewed their information.
+[2025-05-24 15:59:30] User '11' viewed their information.
+[2025-05-24 16:02:12] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 16:02:12] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 16:02:48] User '11' logged in successfully.
+[2025-05-24 16:02:48] User '11' (ID: 8) entered dashboard.
+[2025-05-24 16:03:22] User '11' viewed their information.
+[2025-05-24 16:03:23] User '11' viewed their information.
+[2025-05-24 16:15:58] User '11' viewed their information.
+[2025-05-24 16:16:01] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 16:16:01] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-24 16:16:33] User '44' signed up with ID 12.
+[2025-05-24 16:16:33] User '44' (ID: 12) entered dashboard.
+[2025-05-24 16:16:36] User '44' viewed their information.
+[2025-05-24 16:16:36] User '44' viewed their information.
+[2025-05-24 16:16:38] User '44' entered invalid dashboard choice: 11
+[2025-05-24 16:16:43] User '44' exited dashboard.
+[2025-05-24 16:16:46] A user exited the system.
+[2025-05-24 16:19:33] User '222' signed up with ID 13.
+[2025-05-24 16:19:33] User '222' (ID: 13) entered dashboard.
+[2025-05-24 16:19:34] User '222' viewed their information.
+[2025-05-24 16:19:35] User '222' viewed their information.
+[2025-05-24 16:19:35] User '222' viewed their information.
+[2025-05-24 16:19:36] User '222' viewed their information.
+[2025-05-24 16:19:42] User '222' exited dashboard.
+[2025-05-24 16:19:45] A user exited the system.
+[2025-05-24 19:09:57] Failed login attempt for username 'oiuytre'.
+[2025-05-24 19:11:57] User 'rtyui' signed up with ID 14.
+[2025-05-24 19:11:57] User 'rtyui' (ID: 14) entered dashboard.
+[2025-05-24 19:16:25] User 'rtyui' tried to reserve room 504 but had insufficient funds.
+[2025-05-24 19:18:08] User 'rtyui' exited dashboard.
+[2025-05-24 19:18:11] A user exited the system.
+[2025-05-29 14:07:42] Invalid main menu choice: & "C:/Users/Doctor Rayaneh/AppData/Local/Programs/Python/Python313/python.exe" e:/education/term6/networks/p1/hotel_client.py
+[2025-05-29 14:07:50] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:08:00] User '11' logged in successfully.
+[2025-05-29 14:08:00] User '11' (ID: 8) entered dashboard.
+[2025-05-29 14:08:07] Dashboard error for user '11': cannot access local variable 'rooms' where it is not associated with a value
+[2025-05-29 14:10:18] Invalid main menu choice: & "C:/Users/Doctor Rayaneh/AppData/Local/Programs/Python/Python313/python.exe" e:/education/term6/networks/p1/hotel_client.py
+[2025-05-29 14:10:22] User '11' logged in successfully.
+[2025-05-29 14:10:22] User '11' (ID: 8) entered dashboard.
+[2025-05-29 14:10:25] Dashboard error for user '11': cannot access local variable 'rooms' where it is not associated with a value
+[2025-05-29 14:10:29] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:10:46] User '11' logged in successfully.
+[2025-05-29 14:10:46] User '11' (ID: 8) entered dashboard.
+[2025-05-29 14:13:45] User '11' exited dashboard.
+[2025-05-29 14:14:02] Failed login attempt for username '+'.
+[2025-05-29 14:14:47] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:14:58] Failed login attempt for username 'A'.
+[2025-05-29 14:15:43] Failed login attempt for username 'A'.
+[2025-05-29 14:19:41] User 'Pouya' logged in successfully.
+[2025-05-29 14:19:41] User 'Pouya' (ID: 4) entered dashboard.
+[2025-05-29 14:23:14] System date set to 2020-11-11.
+[2025-05-29 14:23:34] User '11' logged in successfully.
+[2025-05-29 14:23:34] User '11' (ID: 8) entered dashboard.
+[2025-05-29 14:23:40] Dashboard error for user '11': cannot access local variable 'rooms' where it is not associated with a value
+[2025-05-29 14:25:07] User '11' logged in successfully.
+[2025-05-29 14:25:07] User '11' (ID: 8) entered dashboard.
+[2025-05-29 14:25:40] User '11' tried to reserve room 101 but had insufficient funds.
+[2025-05-29 14:27:57] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:27:57] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:29:46] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:30:57] User 'Pouya' logged in successfully.
+[2025-05-29 14:30:57] User 'Pouya' (ID: 4) entered dashboard.
+[2025-05-29 14:32:50] User 'Pouya' logged in successfully.
+[2025-05-29 14:32:50] User 'Pouya' (ID: 4) entered dashboard.
+[2025-05-29 14:33:59] Dashboard error for user 'Pouya': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:33:59] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 14:34:49] User '11' logged in successfully.
+[2025-05-29 14:34:49] User '11' (ID: 8) entered dashboard.
+[2025-05-29 17:02:31] Dashboard error for user '11': [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-05-29 17:02:31] Client error: [WinError 10054] An existing connection was forcibly closed by the remote host

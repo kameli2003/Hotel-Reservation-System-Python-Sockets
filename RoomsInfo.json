@@ -1,0 +1,134 @@
+{
+  "rooms": [
+    {
+      "number": "101",
+      "status": 0,
+      "price": 100,
+      "maxCapacity": 2,
+      "capacity": 3,
+      "users": []
+    },
+    {
+      "number": "102",
+      "status": 0,
+      "price": 73,
+      "maxCapacity": 3,
+      "capacity": 2,
+      "users": [
+        {
+          "id": 1,
+          "numOfBeds": 1,
+          "reserveDate": "25-02-2023",
+          "checkoutDate": "27-02-2023"
+        }
+      ]
+    },
+    {
+      "number": "201",
+      "status": 1,
+      "price": 100,
+      "maxCapacity": 2,
+      "capacity": 0,
+      "users": [
+        {
+          "id": 2,
+          "numOfBeds": 2,
+          "reserveDate": "25-02-2023",
+          "checkoutDate": "27-02-2023"
+        }
+      ]
+    },
+    {
+      "number": "301",
+      "status": 1,
+      "price": 100,
+      "maxCapacity": 1,
+      "capacity": 0,
+      "users": [
+        {
+          "id": 2,
+          "numOfBeds": 1,
+          "reserveDate": "27-02-2023",
+          "checkoutDate": "28-02-2023"
+        },
+        {
+          "id": 3,
+          "numOfBeds": 1,
+          "reserveDate": "25-02-2023",
+          "checkoutDate": "26-02-2023"
+        }
+      ]
+    },
+    {
+      "number": "211",
+      "status": 0,
+      "price": 1,
+      "maxCapacity": 11,
+      "capacity": 11,
+      "users": []
+    },
+    {
+      "number": "401",
+      "status": 0,
+      "price": 20,
+      "maxCapacity": 5,
+      "capacity": 5,
+      "users": []
+    },
+    {
+      "number": "402",
+      "status": 0,
+      "price": 100,
+      "maxCapacity": 2,
+      "capacity": 2,
+      "users": []
+    },
+    {
+      "number": "501",
+      "status": 0,
+      "price": 50,
+      "maxCapacity": 4,
+      "capacity": 4,
+      "users": []
+    },
+    {
+      "number": "502",
+      "status": 0,
+      "price": 120,
+      "maxCapacity": 1,
+      "capacity": 1,
+      "users": []
+    },
+    {
+      "number": "504",
+      "status": 0,
+      "price": 65,
+      "maxCapacity": 2,
+      "capacity": 2,
+      "users": []
+    },
+    {
+      "number": "505",
+      "status": 0,
+      "price": 10,
+      "maxCapacity": 7,
+      "capacity": 7,
+      "users": []
+    },
+    {
+      "number": "601",
+      "status": 0,
+      "price": 70,
+      "maxCapacity": 2,
+      "capacity": 2,
+      "users": [
+        {
+          "id": 5,
+          "numOfBeds": 2,
+          "reserveDate": "04-05-2023",
+          "checkoutDate": "07-05-2023"
+        }
+      ]
+    }
+  ]
+}
